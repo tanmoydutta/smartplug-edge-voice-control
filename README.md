@@ -15,7 +15,7 @@ The contact interfaces (SWD and USB) can be connected to programming interface a
 The purpose of this module is to add a 'voice recognition on edge' capability to a Smart Plug. The NINA module also provides BLE capability and makes communication and control via BLE also possible.
 <p align="center">
   <img src="/images/cb2s-installed.png?raw=true" width="350" title="Factory installed">
-  <img src="[your_relative_path_here_number_2_large_name](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/orthosie-installed.png?raw=true)" width="350" alt="Hacked!">
+  <img src="/images/orthosie-installed.png?raw=true" width="350" alt="Hacked!">
 </p>
 
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/oshw_license-2.png?raw=true)
