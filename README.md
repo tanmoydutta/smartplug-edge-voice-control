@@ -6,6 +6,7 @@ Orthosie is a NINA-B306 powered Smart Plug controller module. The module contain
 This is a replacement / hacking module for modern smart plugs using ESP02S or CB2S modules from Tuya.
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/modules.png?raw=true)
 
-
+The purpose of this module is to add a 'voice recognition on edge' capability to a Smart Plug. The NINA module also provides BLE capability and makes communication and control via BLE also possible.
+![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/smartplug_hack.png?raw=true)
 
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/oshw_license-2.png?raw=true)
