@@ -10,7 +10,7 @@ The diagram below shows the pinout of the module including programming and debug
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/pinout.png?raw=true)
 
 The contact interfaces (SWD and USB) can be connected to programming interface and devices using Pogo pin connectors with the help of suitable clips as shown below in the image.
-
+![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/pogo.png?raw=true)
 
 The purpose of this module is to add a 'voice recognition on edge' capability to a Smart Plug. The NINA module also provides BLE capability and makes communication and control via BLE also possible.
 <p align="center">
