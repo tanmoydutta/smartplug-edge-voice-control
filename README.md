@@ -18,4 +18,6 @@ The purpose of this module is to add a 'voice recognition on edge' capability to
   <img src="/images/orthosie-installed.png?raw=true" width="350" alt="Hacked!">
 </p>
 
+This is an Open Source Hardware certified by OSHWA - 
+![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/certification-mark-NL000019-wide.png?raw=true)
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/oshw_license-2.png?raw=true)
