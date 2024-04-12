@@ -19,8 +19,8 @@ The purpose of this module is to add a 'voice recognition on edge' capability to
 </p>
 
 This is an Open Source Hardware certified by OSHWA - 
-<p align="left">
-<img src="/images/certification-mark-NL000019-wide.png?raw=true" width="350" title="OSHWA Certification">
-</p>
+<a href="https://certification.oshwa.org/nl000019.html">
+  <img src="/images/certification-mark-NL000019-wide.png?raw=true" alt="OSHWA" width="350" title="OSHWA Certification">
+</a>
 
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/oshw_license-2.png?raw=true)
