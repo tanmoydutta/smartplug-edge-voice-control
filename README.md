@@ -7,7 +7,9 @@ This is a replacement / hacking module for modern smart plugs using ESP02S or CB
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/threemusketeers.png?raw=true)
 
 The diagram below shows the pinout of the module including programming and debug contact interfaces (USB Serial and Software Debug)
-![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/pinout-new.png?raw=true)
+<p align="center">
+  <img src="/images/pinout-new.png?raw=true" alt="Pinout" width="350" title="Orthosie pinout">
+</p>
 
 The contact interfaces (SWD and USB) can be connected to programming interface and devices using Pogo pin connectors with the help of suitable clips as shown below in the image.
 ![alt text](https://github.com/tanmoydutta/smartplug-edge-voice-control/blob/main/images/pogo.png?raw=true)
